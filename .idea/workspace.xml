@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9c82aae-d2cf-4003-9b68-2cc9de7c5d55" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Module_2_ProductManage/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_ProductManage/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_ProductManage/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_ProductManage/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_ProductManage/Module_2_ProductManage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_ProductManage/out/production/Exam_MidTerm/META-INF/Exam_MidTerm.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_ProductManage/out/production/Exam_MidTerm/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_ProductManage/out/production/Exam_MidTerm/crawler/Crawler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_ProductManage/out/production/Exam_MidTerm/manage/IProductManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_ProductManage/out/production/Exam_MidTerm/manage/ProductManage$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_ProductManage/out/production/Exam_MidTerm/manage/ProductManage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_ProductManage/out/production/Exam_MidTerm/manage/method/ISort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_ProductManage/out/production/Exam_MidTerm/manage/method/SortDecrease.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_ProductManage/out/production/Exam_MidTerm/manage/method/SortIncrease.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_ProductManage/out/production/Exam_MidTerm/product/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_ProductManage/out/production/Exam_MidTerm/product/factory/IProductFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_ProductManage/out/production/Exam_MidTerm/product/factory/IphoneProduct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_ProductManage/out/production/Exam_MidTerm/product/factory/ProductFactory$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_ProductManage/out/production/Exam_MidTerm/product/factory/ProductFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_ProductManage/out/production/Exam_MidTerm/product/factory/ProductTypes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_ProductManage/out/production/Exam_MidTerm/product/factory/SamSungProduct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_ProductManage/out/production/Exam_MidTerm/storage/Product.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_ProductManage/out/production/Exam_MidTerm/storage/ProductList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_ProductManage/out/production/Exam_MidTerm/storage/Storage$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_ProductManage/out/production/Exam_MidTerm/storage/Storage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_ProductManage/out/test/Exam_MidTerm/META-INF/Exam_MidTerm.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_ProductManage/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_ProductManage/src/crawler/Crawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_ProductManage/src/manage/IProductManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_ProductManage/src/manage/ProductManage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_ProductManage/src/manage/method/ISort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_ProductManage/src/manage/method/SortDecrease.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_ProductManage/src/manage/method/SortIncrease.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_ProductManage/src/product/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_ProductManage/src/product/factory/IProductFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_ProductManage/src/product/factory/IphoneProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_ProductManage/src/product/factory/ProductFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_ProductManage/src/product/factory/ProductTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_ProductManage/src/product/factory/SamSungProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_ProductManage/src/storage/Product.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_ProductManage/src/storage/ProductList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_2_ProductManage/src/storage/Storage.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bsWTj0Q6awKLPcM7kZs6LUmAqw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Module_2_ProductManage" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9c82aae-d2cf-4003-9b68-2cc9de7c5d55" name="Default Changelist" comment="" />
+      <created>1589421290200</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589421290200</updated>
+      <workItem from="1589421291623" duration="53000" />
+      <workItem from="1589421359799" duration="94000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1589421452368">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589421452368" />
+  </component>
+</project>
