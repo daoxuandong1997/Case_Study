@@ -71,9 +71,9 @@ public class ProductCrawler {
             File inFile = new File( source);
             FileReader fileReader = new FileReader(inFile);
             BufferedReader bufferedReader = new BufferedReader(fileReader);
-            String line = bufferedReader.readLine() ;
+            String line ;
 
-            while (line != null) {
+            while ((line = bufferedReader.readLine()) != null) {
                 productCrawler.add(line);
             }
 
@@ -93,6 +93,7 @@ public class ProductCrawler {
             BufferedWriter bufferedWriter = new BufferedWriter(writer);
             for (String product : productCrawler){
                 bufferedWriter.write(product);
+
             }
             bufferedWriter.close();
         } catch (IOException e) {
@@ -104,9 +105,18 @@ public class ProductCrawler {
     {
         final String URL_SAMSUNG = "https://www.thegioididong.com/dtdd-samsung";
         final String URL_IPHONE = "https://www.thegioididong.com/dtdd-apple-iphone";
+        final String URL_MACBOOK = "https://www.thegioididong.com/laptop-apple-macbook";
+        final String URL_ASUS = "https://www.thegioididong.com/laptop-asus";
+        final String URL_SMART_WATCH = "https://www.thegioididong.com/dong-ho-thong-minh";
+        final String URL_TABLET = "https://www.thegioididong.com/may-tinh-bang-apple-ipad";
 
         crawlProduct(URL_IPHONE);
         crawlProduct(URL_SAMSUNG);
+        crawlProduct(URL_MACBOOK);
+        crawlProduct(URL_ASUS);
+        crawlProduct(URL_SMART_WATCH);
+        crawlProduct(URL_TABLET);
+
         writeFile(source);
     }
 }

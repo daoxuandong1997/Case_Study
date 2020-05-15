@@ -72,7 +72,7 @@ public class ProductManage implements IProductManager {
     }
 
     private void showProduct(Product product) {
-        System.out.printf("||Category: %-10s ||Brand: %-18s ||Name: %-28s ||Price:%10s ||ID: %s \n",
+        System.out.printf("||Category: %-20s ||Brand: %-10s ||Name: %-50s ||Price:%10s ||ID: %s \n",
                 product.getCategory(),
                 product.getBrand(),
                 product.getName(),
@@ -240,7 +240,7 @@ public class ProductManage implements IProductManager {
 
     //=========================================================
     public void crawling() {
-        if (productList.size() == 0) {
+        if(productList.size() == 0) {
             ProductCrawler CrawInstance = ProductCrawler.getInstance();
             CrawInstance.crawl(FILE_CRAWLER);
             ProductList.setListFromFile(FILE_CRAWLER);

@@ -44,6 +44,7 @@ public class Main {
                     break;
                 case SHOW:
                     productManage.displayProduct();
+                    productManage.update();
                     break;
                 case ADD :
                     productManage.addProduct();

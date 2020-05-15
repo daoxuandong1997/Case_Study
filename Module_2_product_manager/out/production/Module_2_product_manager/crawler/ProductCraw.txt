@@ -18,3 +18,37 @@
 Điện thoại, Samsung, Samsung Galaxy Note 10, 22990000, 191276
 Điện thoại, Samsung, Samsung Galaxy S20, 21490000, 217935
 Điện thoại, Samsung, Samsung Galaxy S10+, 19990000, 179530
+Laptop, MacBook, MacBook Air 2017 128GB (MQD32SA/A), 19990000, 106875
+Laptop, MacBook, Macbook Pro Touch 16 inch 2019 (MVVJ2SA/A), 59990000, 215941
+Laptop, MacBook, Macbook Pro Touch 2019 256GB (MUHP2SA/A), 39990000, 213870
+Laptop, MacBook, MacBook Air 2019 1.6GHz 256GB (MVFL2SA/A), 34990000, 218493
+Laptop, MacBook, Apple Macbook Air 2020 1.1GHz 256GB (MWTL2SA/A), 28990000, 220174
+Laptop, MacBook, Macbook Pro Touch 2019 256GB (MV922SA/A), 55990000, 213021
+Laptop, Asus, Asus VivoBook X509FA i3 8145U (EJ857T), 11690000, 220575
+Laptop, Asus, Asus VivoBook A512FA i3 8145U (EJ1868T), 13290000, 220574
+Laptop, Asus, Asus VivoBook X509MA N4000 (BR061T), 6990000, 220527
+Laptop, Asus, Asus VivoBook X509JP i5 1035G1 (EJ023T), 17190000, 221617
+Laptop, Asus, Asus VivoBook X409JA i3 1005G1 (EK015T), 12390000, 220526
+Laptop, Asus, Asus VivoBook X409JA i5 1035G1 (EK052T), 15490000, 220976
+Laptop, Asus, Asus VivoBook A412FA i5 10210U (EK738T), 16990000, 217509
+Laptop, Asus, Asus VivoBook A512FA i5 10210U (EJ1734T), 17290000, 217510
+Laptop, Asus, Asus VivoBook A412FA i3 8145U (EK342T), 12990000, 203670
+Laptop, Asus, Asus VivoBook X509F i7 8565U (EJ133T), 18990000, 207680
+Đồng hồ thông minh, Xiaomi, Apple Watch S5 40mm viền nh&#244;m d&#226;y cao su, 850000, 202980
+Đồng hồ thông minh, Samsung, Mi Band 4, 7990000, 212620
+Đồng hồ thông minh, Huawei, Samsung Galaxy Watch Active 2 44mm viền nh&#244;m d&#226;y sillicone, 5490000, 212192
+Đồng hồ thông minh, Masstel, Huawei Watch GT2 46mm d&#226;y silicone, 1490000, 209349
+Đồng hồ thông minh, Kidcare, Masstel Super Hero, 1190000, 210467
+Đồng hồ thông minh, Huawei, Kidcare 06S, 5690000, 212196
+Đồng hồ thông minh, Apple, Huawei Watch GT2 42mm d&#226;y kim loại, 22990000, 215816
+Đồng hồ thông minh, Apple, Apple Watch S5 LTE 44mm viền th&#233;p d&#226;y th&#233;p, 21990000, 215834
+Máy tính bảng, iPad (Apple), iPad Pro 11 inch Wifi 128GB (2020), 21990000, 220163
+Máy tính bảng, iPad (Apple), iPad 10.2 inch Wifi Cellular 128GB (2019), 15990000, 213105
+Máy tính bảng, iPad (Apple), iPad 10.2 inch Wifi Cellular 32GB (2019), 13990000, 213099
+Máy tính bảng, iPad (Apple), iPad Pro 12.9 inch Wifi Cellular 128GB (2020), 31990000, 221776
+Máy tính bảng, iPad (Apple), iPad Pro 12.9 inch Wifi 128GB (2020), 27990000, 221775
+Máy tính bảng, iPad (Apple), iPad Pro 11 inch Wifi Cellular 128GB (2020), 25990000, 221774
+Máy tính bảng, iPad (Apple), iPad Mini 7.9 inch Wifi Cellular 64GB (2019), 14990000, 202820
+Máy tính bảng, iPad (Apple), iPad Air 10.5 inch Wifi 64GB 2019, 13990000, 202705
+Máy tính bảng, iPad (Apple), iPad 10.2 inch Wifi 128GB (2019), 11990000, 213104
+Máy tính bảng, iPad (Apple), iPad Mini 7.9 inch Wifi 64GB (2019), 10990000, 202706
