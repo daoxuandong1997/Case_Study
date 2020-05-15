@@ -1,0 +1,21 @@
+Điện thoại,  iPhone (Apple),  iPhone 11 64GB, 21990000,  153856
+Điện thoại,  iPhone (Apple),  iPhone 11 Pro Max 512GB, 43990000,  210654
+Điện thoại,  iPhone (Apple),  iPhone 11 Pro Max 256GB, 37990000,  210653
+Điện thoại,  iPhone (Apple),  iPhone 11 Pro 256GB, 34990000,  210655
+Điện thoại,  iPhone (Apple),  iPhone 11 Pro Max 64GB, 33990000,  200533
+Điện thoại,  iPhone (Apple),  iPhone Xs Max 256GB, 33990000,  190322
+Điện thoại,  iPhone (Apple),  iPhone 11 Pro 64GB, 30990000,  188705
+Điện thoại,  iPhone (Apple),  iPhone Xs Max 64GB, 27990000,  190321
+Điện thoại,  iPhone (Apple),  iPhone 11 256GB, 25990000,  210648
+Điện thoại,  iPhone (Apple),  iPhone Xs 256GB, 24990000,  190324
+Điện thoại,  Samsung,  Samsung Galaxy A31, 6490000,  216174
+Điện thoại,  Samsung,  Samsung Galaxy Fold, 50000000,  198158
+Điện thoại,  Samsung,  Samsung Galaxy S10 Lite, 14990000,  194251
+Điện thoại,  Samsung,  Samsung Galaxy Z Flip, 36000000,  213022
+Điện thoại,  Samsung,  Samsung Galaxy S20 Ultra, 29990000,  217937
+Điện thoại,  Samsung,  Samsung Galaxy Note 10+, 26990000,  206176
+Điện thoại,  Samsung,  Samsung Galaxy S20+, 23990000,  217936
+Điện thoại,  Samsung,  Samsung Galaxy Note 10, 22990000,  191276
+Điện thoại,  Samsung,  Samsung Galaxy S20, 21490000,  217935
+Điện thoại,  Samsung,  Samsung Galaxy S10+, 19990000,  179530
+điện thoại, Apple, Iphone XS, 456132, 123465
